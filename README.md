@@ -1,6 +1,6 @@
 # widgets
 
-A new Flutter project.
+Meu repositório de Widgets de minha autoria em flutter. São Widgets que desenvolvi para determinada função que acho que pode ser interessante para a comunidade utilizar e até mesmo para no futuro eu utilizar como base em um projeto. 
 
 ## Getting Started
 
