@@ -1,0 +1,41 @@
+{
+  
+  "project_info": {
+    "project_number": "175848774575",
+    "firebase_url": "https://nu-finance.firebaseio.com",
+    "project_id": "nu-finance",
+    "storage_bucket": "nu-finance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175848774575:android:2ccd3745b94f32143d2d5a",
+        "android_client_info": {
+          "package_name": "com.example.widgets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175848774575-nprl4h431l4n1s7cv5t61b5u3ai8okkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4z0unBjxUypSp9xrzlZ3k81wlxbaEqyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175848774575-nprl4h431l4n1s7cv5t61b5u3ai8okkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
